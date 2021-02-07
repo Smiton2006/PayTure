@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayTure.Api", "PayTure.Api\PayTure.Api.csproj", "{FEE87F4B-B670-4FA2-87A0-B2A853E4EB65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayTure.Test", "PayTure.Test\PayTure.Test.csproj", "{5F613BA8-D11A-45C9-90CB-7CB5417CA625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE87F4B-B670-4FA2-87A0-B2A853E4EB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE87F4B-B670-4FA2-87A0-B2A853E4EB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE87F4B-B670-4FA2-87A0-B2A853E4EB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE87F4B-B670-4FA2-87A0-B2A853E4EB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F613BA8-D11A-45C9-90CB-7CB5417CA625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F613BA8-D11A-45C9-90CB-7CB5417CA625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F613BA8-D11A-45C9-90CB-7CB5417CA625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F613BA8-D11A-45C9-90CB-7CB5417CA625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30D72FEE-C713-4641-8259-6F6410E5EFB0}
+	EndGlobalSection
+EndGlobal
